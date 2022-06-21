@@ -13,7 +13,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.17</version>
+			<version>8.0.28</version>
 		</dependency>
 		<!-- 引入 MyBatis 依赖 -->
 		<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
